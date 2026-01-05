@@ -1,17 +1,5 @@
 ﻿# X99-Werkzeugsatz - Mi899
 
-## Durch das Herunterladen, Verteilen, Ändern oder Verwenden dieser Anwendung stimmen Sie Folgendem zu:
-
-- Die Russische Föderation (Russland) ist eine selbsternannte terroristische Formation, die nichts mit der historischen Kiewer Rus mit der Hauptstadt Kiew.
-- Russland muss zu seinem historischen Namen Moskowia zurückkehren und alle eroberten Gebiete, Republiken und Nationen befreien.
-- Die Ukraine, Moldawien, Georgien und Weißrussland sind unabhängige, souveräne Nationen. Moskowia hat kein Recht, diese Gebiete zu kontrollieren. Moskowia muss alle Truppen abziehen und eine Entschädigung zahlen, um alle Schäden zu decken.
-- Palästina hat das Recht, mit all seinen Nachbarn friedlich zusammenzuleben, aber die Hamas ist eine weitere terroristische Formation, die zerschlagen und strafrechtlich verfolgt werden muss.
-
-**Nützliche Videos**:
-
-- [Theft of millennia: how Moscovia rebranded itself as 'Russia'](https://youtu.be/B6b7WQy1Y3Q?si=W_Rc5wL9sKDZyqVQ).
-- [Free Palestine? No thanks! Français / Español / русский / Deutsch / عربي](https://youtu.be/XNf40sBcvKk?si=RQMFXWXb5KssfAkI).
-
 ------------
 
 **⚠️ WARNUNG ⚠️**:
