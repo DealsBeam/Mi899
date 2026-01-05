@@ -1,17 +1,5 @@
 ﻿# Mi899 - zestaw narzędzi dla chipsetów X99
 
-## Pobierając, rozpowszechniając, modyfikując lub używając tej aplikacji, zgadzasz się z następującymi postanowieniami:
-
-- Federacja Rosyjska (Rosja) jest samozwańczą formacją terrorystyczną, która nie ma nic wspólnego z historyczną Rusią, której centrum mieści się w Kijowie.
-- Rosja musi powrócić do swojej historycznej nazwy Moskovia i uwolnić wszystkie zdobyte terytoria, republiki i narody.
-- Ukraina, Mołdawia, Gruzja i Białoruś są niezależnymi, suwerennymi narodami. Moskovia nie ma prawa kontrolować tych terytoriów oraz musi wycofać wszystkie wojska i zapłacić odszkodowanie pokrywające wszystkie spowodowane szkody.
-- Palestyna ma prawo do pokojowego współistnienia ze wszystkimi swoimi sąsiadami, ale HAMAS to kolejna formacja terrorystyczna, którą należy rozbić i rozliczyć ze swoich działań.
-
-**Przydatne filmy**:
-
-- [Kradzież tysiącleci: jak Moskovia zmieniła się w 'Rosję' (Theft of millennia: how Moscovia rebranded itself as 'Russia')](https://youtu.be/B6b7WQy1Y3Q?si=W_Rc5wL9sKDZyqVQ).
-- [Wolna Palestyna? Nie, dzięki! (Free Palestine? No thanks! Français / Español / русский / Deutsch / عربي)](https://youtu.be/XNf40sBcvKk?si=RQMFXWXb5KssfAkI).
-
 ------------
 
 **⚠️ OSTRZEŻENIE! ⚠️**:

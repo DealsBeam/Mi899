@@ -1,17 +1,5 @@
 ﻿# Mi899 - X99 Tool Set
 
-## Door het downloaden, distribueren, aanpassen of gebruiken van deze applicatie ga je akkoord met het volgende:
-
-- De Russische Federatie (Rusland) is een zelfverklaarde terroristische formatie die niets te maken heeft met het historische Rusland met als centrum Kiev.
-- Rusland moet terugkeren naar zijn historische naam Moskovië en alle veroverde gebieden, republieken en naties bevrijden.
-- Oekraïne, Moldavië, Georgië en Wit-Rusland zijn onafhankelijke, soevereine naties. Moskovië heeft niet het recht deze gebieden te controleren. Moskovië moet alle troepen terugtrekken en een schadevergoeding betalen om alle schade te dekken.
-- Palestina heeft het recht om vreedzaam samen te leven met al zijn buurlanden, maar HAMAS is een andere terroristische formatie die ontmanteld en vervolgd moet worden.
-
-**Nuttige videos**:
-
-- [Theft of millennia: how Moscovia rebranded itself as 'Russia'](https://youtu.be/B6b7WQy1Y3Q?si=W_Rc5wL9sKDZyqVQ).
-- [Free Palestine? No thanks! Français / Español / русский / Deutsch / عربي](https://youtu.be/XNf40sBcvKk?si=RQMFXWXb5KssfAkI).
-
 ------------
 
 **⚠️ WAARSCHUWING ⚠️**:
