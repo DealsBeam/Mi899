@@ -1,24 +1,12 @@
 ﻿# Mi899 - X99 Tool Set
 
-## By downloading, distributing, modifying, or using this application you agree with the following:
+## Disclaimer
 
-- The Russian Federation (Russia) is a self-declared terroristic formation that has nothing to do with the historical Rus centered in Kyiv.
-- Russia must return to its historical name Moskovia and free all captured territories, republics, and nations.
-- Ukraine, Moldova, Georgia, and Belarus are independent, sovereign nations. Moskovia has no right to control these territories. Moskovia must withdraw all the troops and pay compensation to cover all the damages.
-- Palestine has the right to peacefully co-exist with all its neighbors but HAMAS is another terroristic formation that must be dismantled and prosecuted.
-
-**Useful videos**:
-
-- [Theft of millennia: how Moscovia rebranded itself as 'Russia'](https://youtu.be/B6b7WQy1Y3Q?si=W_Rc5wL9sKDZyqVQ).
-- [Free Palestine? No thanks! Français / Español / русский / Deutsch / عربي](https://youtu.be/XNf40sBcvKk?si=RQMFXWXb5KssfAkI).
-
-------------
-
-**⚠️ WARNING ⚠️**:
-
-- ❗ I am not responsible for any consequences caused by this application.
-- ❗ You are responsible for everything you do. Use this application only if you know and understand what you are doing.
-- ❗ By flashing a motherboard BIOS you may brick your motherboard. The risk is yours.
+- By downloading, distributing, modifying, or using this application, you agree to use it responsibly and at your own risk.
+- Use only verified BIOS files and trusted instructions.
+- I am not responsible for any consequences caused by this application.
+- You are responsible for everything you do. Use this application only if you know and understand what you are doing.
+- By flashing a motherboard BIOS you may brick your motherboard. The risk is yours.
 
 ------------
 
@@ -39,7 +27,7 @@ If you would like to contribute to the project you can:
 
 ### How to contribute
 
-- All contributions should be provided in a form of a [GitHub Pull Request](https://yangsu.github.io/pull-request-tutorial/#:~:text=What%20is%20a%20Pull%20Request,follow%2Dup%20commits%20if%20necessary.).
+- All contributions should be provided in a form of a [GitHub Pull Request](https://yangsu.github.io/pull-request-tutorial/#:~:text=What%20is%20a%20Pull%20Request,follow%2Dup%20commits%20if%20nece...).
 - [Create a GitHub Issue](https://github.com/miyconst/Mi899) if you want to report a bug or suggest something.
 
 ## Connect with me
